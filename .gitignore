@@ -1,0 +1,13 @@
+#Project
+Binaries/
+Build/
+Debug/
+Intermediate/
+Saved/
+gittest.sdf
+gittest.sln
+
+#common
+.vs/
+.git
+
